@@ -1,3 +1,6 @@
+# What's New
+**Added Support For Pocketmine 5 (Letest Version)**
+
 # InvCrashFix
 **Attempt** to fix inventory crashes caused by ContainerClosePacket on MCPE v1.16 by replicating BDS behaviour
 
